@@ -12,7 +12,8 @@ The dashboard features the overview of the recurring investment. The purpose of 
 
 ## Facts
 1. The new user trend has been quite steady.
-2. 
+2. When looking at the distribution of plans by investing amount range, most users tend to invest about $100~200 per month/per plan.
+3. The conversion rate of final completion of the recurring investment plan set up is very low - approximately 10% of the users going through the funnel are converted.
 
 
 </br></br>
@@ -30,7 +31,12 @@ Here are some suggestions to increase activation of the recurring investment pro
 
 
 > ### Notes
-> I tried to create a simple version of an overview dashboard. All of the data are generated using ChatGPT. In real world, I'd looked at more specific metrics, like the average time it took for the users to start investing since they join the app. Another metric that I actually used was the average amount of money the users commit per month; by looking at this metric I tried to figure out the maximum amount of commitment per month.  
+> Here I tried to create a simple version of an overview dashboard. All of the data are generated using ChatGPT.
+
+### What could have been done better?
+- In real world, I'd looked at more specific metrics, like the average time it took for the users to start investing since they join the app. Another metric that I actually used was the average amount of money the users commit per month; by looking at this metric I tried to figure out the maximum amount of commitment per month.
+- Although this dashboard shows the number of users and number of investors, it does not show the actual conversion rate of active users to investors. Digging down for more detail could give better insight.
+- Also checking for the churned user of recurring investment can be helpful, because retention is as important as activation.
 
 </br>
 </br>
