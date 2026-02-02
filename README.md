@@ -2,9 +2,6 @@
 Overview Dashboard Tracking the Performance of Recurring Investment </br>
 
 
-> ### Limitations
-> I tried to create a simple version of an overview dashboard. All of the data are generated using ChatGPT. In real world, I'd looked at more specific metrics, like the average time it took for the users to start investing since they join the app. Another metric that I actually used was the average amount of money the users commit per month; by looking at this metric I tried to figure out the maximum amount of commitment per month.  </br></br>
-
 ## Introduction & Purpose
 The dashboard features the overview of the recurring investment. The purpose of the dashboard is to monitor the product performance. The possible business questions arising from the dashboards are like the following: 
 1. About 28% of the users are participating in recurring investment. Is this the best or can we convert more users?
@@ -32,8 +29,8 @@ Here are some suggestions to increase activation of the recurring investment pro
 </br></br>
 
 
-### Things to Consider
- 
+> ### Notes
+> I tried to create a simple version of an overview dashboard. All of the data are generated using ChatGPT. In real world, I'd looked at more specific metrics, like the average time it took for the users to start investing since they join the app. Another metric that I actually used was the average amount of money the users commit per month; by looking at this metric I tried to figure out the maximum amount of commitment per month.  
 
 </br>
 </br>
