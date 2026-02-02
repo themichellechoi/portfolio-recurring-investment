@@ -24,7 +24,7 @@ Here are some suggestions to increase activation of the recurring investment pro
 1. Performing AB tests for the set-up page. A lot of users stay on the stock choosing page. However the nubmer significantly drops at choose period page. A lot of different experiment can be done. Some of the hypothesis that can be tested are:
    1. The funnel may be too long. Create a shorter version and compare the conversion.
    2. The conversion rate of users moving to choosing period page is already quite low. Perhaps we can try to switch the order of the pages.
-3.Try to analyze through which route the new users access the recurring investment page.
+2. Try to analyze through which route the new users access the recurring investment page.
   1. If it's mostly marketing problem, we can try to diversify marketing sources.
   2. Try to change the click location of the recurring investment section of the app in case visibility is the problem.
 </br></br>
