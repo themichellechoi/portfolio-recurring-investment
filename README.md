@@ -37,7 +37,7 @@ Here are some suggestions to increase activation of the recurring investment pro
 
 </br>
 </br>
-<img width="1998" height="1998" alt="Overview" src="https://github.com/user-attachments/assets/7d9f5096-cc95-40ec-b348-fba09c47cde4" />
+<img width="1998" height="1998" alt="Overview" src="https://github.com/themichellechoi/portfolio-recurring-investment/blob/main/Dashboard1.png?raw=true" />
 
 
 
